@@ -94,7 +94,7 @@
     "native-url": "0.3.4",
     "neo-async": "2.6.1",
     "pnp-webpack-plugin": "1.6.4",
-    "postcss": "7.0.32",
+    "postcss": "7.0.36",
     "prop-types": "15.7.2",
     "prop-types-exact": "1.2.0",
     "react-is": "16.13.1",
