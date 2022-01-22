@@ -190,7 +190,7 @@
     "launch-editor": "2.2.1",
     "lodash.curry": "4.1.1",
     "lru-cache": "5.1.1",
-    "nanoid": "2.0.3",
+    "nanoid": "3.1.31",
     "node-fetch": "2.6.0",
     "ora": "4.0.4",
     "path-to-regexp": "6.1.0",
