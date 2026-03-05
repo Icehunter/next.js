@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "immutable": "^3.8.2",
+    "immutable": "^5.1.5",
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
