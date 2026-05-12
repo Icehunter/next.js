@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "next": "latest",
-    "next-auth": "^2.1.0",
+    "next-auth": "^4.24.14",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "sqlite3": "^4.2.0"
